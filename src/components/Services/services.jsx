@@ -12,7 +12,7 @@ function ServicesSection() {
 						What I Can Do
 					</h1>
 					<p className="max-w-xl mx-auto text-lg">
-						I've been developing website for a while, but I also equally enjoy
+						I've been developing websites for a while, but I also equally enjoy
 						creating web2 and web3 applications.
 					</p>
 				</div>
