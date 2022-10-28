@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { HashLink } from 'react-router-hash-link';
-import Arrow from '../../components/arrow';
+import Arrow from '../../components/Arrow';
 import { HeroSm, HeroMd, HeroLg } from '../../assets';
 
 function Hero() {

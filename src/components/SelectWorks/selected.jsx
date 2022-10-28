@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Arrow from '../arrow';
+import Arrow from '../Arrow';
 import { portfolioData } from '../../data';
 import { PortfolioPattern } from '../../assets';
 

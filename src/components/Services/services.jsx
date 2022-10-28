@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Arrow from '../../components/arrow';
+import Arrow from '../../components/Arrow';
 import { Services } from '../../assets';
 
 function ServicesSection() {
