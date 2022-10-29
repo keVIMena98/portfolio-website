@@ -20,7 +20,8 @@ function ServicesSection() {
 					<div>
 						<h3 className="text-3xl font-bold mb-4'">Web Development</h3>
 						<p className="mb-4 text-lg">
-							I specialize in building website and web applications.
+							I specialize in designing and developing beautiful and elegant
+							websites.
 						</p>
 						<Link
 							to={'/'}
@@ -31,7 +32,7 @@ function ServicesSection() {
 						</Link>
 						<h3 className="text-3xl font-bold mb-4">Full-Stack Development</h3>
 						<p className="mb-4 text-lg">
-							As a jack of all trades, I building full-stack web applications
+							As a jack of all trades, I can develop a full-stack web app from
 							beginning to end using the PostreSQL, Express, React & NodeJS
 							(PERN) Stack.
 						</p>
@@ -56,9 +57,8 @@ function ServicesSection() {
 					<div>
 						<h3 className="text-3xl font-bold mb-4">Ethereum Development</h3>
 						<p className="mb-4 text-lg">
-							As a jack of all trades, I building full-stack web applications
-							beginning to end using the PostreSQL, Express, React & NodeJS
-							(PERN) Stack.
+							I can build a decentralized application on the Ethereum blockchain
+							using Hardat or Remix.
 						</p>
 						<Link
 							to={'/'}
@@ -67,9 +67,12 @@ function ServicesSection() {
 							Read More
 							<Arrow />
 						</Link>
-						<h3 className="text-3xl font-bold mb-4">Web Development</h3>
+						<h3 className="text-3xl font-bold mb-4">
+							Specific Software Solutions
+						</h3>
 						<p className="mb-4 text-lg">
-							I specialize in building website and web applications.
+							I build software that can solved from specific to a wide range on
+							problems to automate processes.
 						</p>
 						<Link
 							to={'/'}

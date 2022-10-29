@@ -45,8 +45,8 @@ function Hero() {
 						<span className="text-violet-900">.</span>
 					</h1>
 					<p className="text-lg max-w-xl mb-6">
-						I'm a self-taught Full-Stack Engineer and Web Developer with a keen
-						interest in Web3 and Blockchain development.All coding projects are
+						I am a self-taught Web Developer and Full-Stack Engineer with a keen
+						interest in Web3 and Blockchain development. All coding projects are
 						built from the ground up, from planning and designing all the way to
 						solving real-life problems with code.
 					</p>

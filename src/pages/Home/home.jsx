@@ -9,12 +9,7 @@ function Home() {
 	return (
 		<div className="border-black dark:border-gray-500 border-x-2">
 			<Hero />
-			<Scroller
-				text={
-					"Let's get to work! Have a project in mind? Let's get to work! Have a project in mind? Let's get to work! Have a project in mind? "
-				}
-				Link="/contact"
-			/>
+			<Scroller />
 			<SelectedWorks />
 			<ServicesSection />
 			<ContactButton />
