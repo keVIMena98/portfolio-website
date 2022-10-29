@@ -1,4 +1,5 @@
 import Logo from './logo.svg';
+import LogoDark from './logo-dark.svg';
 import HeroSm from './hero-sm.png';
 import HeroMd from './hero-md.png';
 import HeroLg from './hero-lg.png';
@@ -9,6 +10,7 @@ import Services from './services.jpeg';
 
 export {
 	Logo,
+	LogoDark,
 	HeroSm,
 	HeroMd,
 	HeroLg,

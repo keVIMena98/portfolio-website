@@ -5,8 +5,8 @@ import Arrow from './Arrow';
 function ContactButton() {
 	return (
 		<section
-			className="px-4 bg-yellow-300 hover:bg-black 
-			hover:text-white cursor-pointer border-t-2 border-black ease-in-out duration-150
+			className="px-4 bg-yellow-300 dark:bg-purple-900 hover:bg-black 
+			hover:text-white dark:text-gray-300 cursor-pointer border-t-2 border-black dark:border-gray-500 ease-in-out duration-150
 			"
 		>
 			<Link to="/contact">

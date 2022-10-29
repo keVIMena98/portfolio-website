@@ -9,7 +9,7 @@ function Scroller({ text }) {
 				<Marquee
 					pauseonHover
 					gradient={false}
-					className="bg-yellow-300 border-t-2 border-black py-2 font-bold text-4xl"
+					className="bg-yellow-300 dark:bg-purple-900 border-t-2 border-black dark:border-gray-500 dark:text-gray-300 py-2 font-bold text-4xl"
 				>
 					{text}
 				</Marquee>

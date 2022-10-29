@@ -5,8 +5,8 @@ import { Services } from '../../assets';
 
 function ServicesSection() {
 	return (
-		<section className="border-black border-t-2 px-4 py-12">
-			<div className="container mx-auto">
+		<section className="border-black dark:border-gray-500 dark:bg-gray-800 border-t-2 px-4 py-12">
+			<div className="container mx-auto dark:text-gray-300">
 				<div className="text-center py-12">
 					<h1 className="text-4xl lg:text-5xl xl:text-7xl font-bold mb-4">
 						What I Can Do
@@ -16,7 +16,7 @@ function ServicesSection() {
 						creating web2 and web3 applications.
 					</p>
 				</div>
-				<div className="text-black py-12 grid lg:grid-cols-4 items-center">
+				<div className="text-black dark:text-gray-300 py-12 grid lg:grid-cols-4 items-center">
 					<div>
 						<h3 className="text-3xl font-bold mb-4'">Web Development</h3>
 						<p className="mb-4 text-lg">
@@ -50,7 +50,7 @@ function ServicesSection() {
 							width="611"
 							height="764"
 							loading="lazy"
-							className="border-2 border-black rounded-full w-3/5 drop-shadow-[10px_-10_0_rgba(150,204,21,1)]"
+							className="border-2 border-black dark:border-gray-500 rounded-full w-3/5 drop-shadow-[10px_-10_0_rgba(150,204,21,1)]"
 						/>
 					</div>
 					<div>

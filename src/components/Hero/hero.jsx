@@ -6,10 +6,10 @@ import { HeroSm, HeroMd, HeroLg } from '../../assets';
 
 function Hero() {
 	return (
-		<section className="py-10 lg:py-36 xl:py-48">
+		<section className="py-10 lg:py-36 xl:py-48 dark:bg-gray-800">
 			<div className="container mx-auto gap-8 px-4 flex flex-col md:flex-row items-center">
 				<div className="md:flex-1 md:order-2">
-					<picture className="flex drop-shadow-[10px_-10px_0_rgba(250,204,21,1)] border-black rounded-tl-[150px] rounded-br-[150px] rounded-xl overflow-hidden">
+					<picture className="flex drop-shadow-[10px_-10px_0_rgba(250,204,21,1)] dark:drop-shadow-[10px_-10px_0_rgba(125,0,175,1)] rounded-tl-[150px] rounded-br-[150px] rounded-xl overflow-hidden border-black dark:border-gray-500">
 						<source
 							srcSet={HeroSm}
 							width="363"
@@ -33,7 +33,7 @@ function Hero() {
 						/>
 					</picture>
 				</div>
-				<div className="md:flex-1">
+				<div className="md:flex-1 dark:text-gray-300">
 					<h2 className="text-lg md:text-xl font-bold uppercase">
 						Hi! I'm Ackermann.
 					</h2>
@@ -53,13 +53,13 @@ function Hero() {
 					<div className="flex items-baseline gap-4">
 						<HashLink
 							to="#work"
-							className="px-6 py-4 rounded-md bg-teal-600 hover:bg-teal-700 text-white"
+							className="px-6 py-4 rounded-md bg-teal-600 hover:bg-teal-700 text-white dark:text-gray-900"
 						>
 							Selected Work
 						</HashLink>
 						<Link
 							// to="/contact"
-							className="px-6 py-4 rounded-md text-black flex gap-2"
+							className="px-6 py-4 rounded-md text-black dark:text-gray-300 flex gap-2"
 						>
 							Let's Talk
 							<Arrow />
