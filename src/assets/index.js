@@ -7,6 +7,11 @@ import PortfolioPattern from './portfolio-pattern.png';
 import Portfolio1 from './sim-labs.png';
 import Portfolio2 from './cryptopresis.png';
 import Services from './services.jpeg';
+import SimlabsCover from './simlabs-cover.jpeg';
+
+import Github from './icons/github.svg';
+import LinkedIn from './icons/linkedin.svg';
+import Twitter from './icons/twitter.svg';
 
 export {
 	Logo,
@@ -18,4 +23,8 @@ export {
 	Portfolio1,
 	Portfolio2,
 	Services,
+	SimlabsCover,
+	Github,
+	LinkedIn,
+	Twitter,
 };

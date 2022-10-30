@@ -5,7 +5,7 @@ import Arrow from '../Arrow';
 
 function Footer() {
 	return (
-		<footer className="grid grid-cols-2 md:grid-cols-[180px_1fr_180px] border-black dark:border-gray-500 border-2 bg-white dark:bg-gray-800 dark:text-gray-300 sticky">
+		<footer className="grid grid-cols-2 md:grid-cols-[180px_1fr_180px] border-black dark:border-gray-500 border-2 dark:bg-gray-800 dark:text-gray-300 sticky">
 			<Link
 				to="/"
 				className="flex py-4 align-middle justify-center border-black dark:border-gray-500 border-r-2"

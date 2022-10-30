@@ -2,7 +2,7 @@ import React from 'react';
 import Scroller from '../../components/Scroller';
 import ContactButton from '../../components/ContactButton';
 import Hero from '../../components/Hero/hero';
-import SelectedWorks from '../../components/SelectWorks/selected';
+import SelectedWorks from '../../components/PortfolioSection/portfolioSection';
 import ServicesSection from '../../components/Services/services';
 
 function Home() {

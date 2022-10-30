@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link, NavLink } from 'react-router-dom';
+import { HashLink } from 'react-router-hash-link';
 import { Logo, LogoDark } from '../../assets';
 import Arrow from '../Arrow';
 import useDarkMode from '../../hooks/darkMode';
@@ -25,7 +26,7 @@ const ThemeIcon = () => {
 
 function Header() {
 	return (
-		<header className="grid grid-cols-2 md:grid-cols-[180px_1fr_180px] border-black border-2 bg-white sticky dark:border-gray-500 dark:bg-gray-800">
+		<header className="grid grid-cols-2 md:grid-cols-[180px_1fr_180px] border-black border-2 sticky dark:border-gray-500 dark:bg-gray-800">
 			<Link
 				to="/"
 				className="flex py-4 align-middle justify-center border-black border-r-2 dark:border-gray-500"
@@ -75,14 +76,14 @@ function Header() {
 						</NavLink>
 					</li>
 					<li>
-						<NavLink
-							to="/portfolio"
+						<HashLink
+							to="#portfolio"
 							className={({ isActive }) =>
 								isActive ? activeClassName : undefined
 							}
 						>
 							Portfolio
-						</NavLink>
+						</HashLink>
 					</li>
 					<li>
 						<NavLink to="/contact">Contact</NavLink>

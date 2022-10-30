@@ -7,14 +7,14 @@ import { PortfolioPattern } from '../../assets';
 function SelectedWorks() {
 	return (
 		<section
-			id="work"
+			id="portfolio"
 			className="px-4 pb-12 border-black dark:border-gray-500 border-t-2 bg-teal-600 bg-fixed"
 			style={{ backgroundImage: 'url(' + PortfolioPattern + ')' }}
 		>
 			<div className="container mx-auto">
 				<div className="text-white dark:text-gray-300 text-center py-12">
 					<h1 className="text-4xl lg:text-5xl xl:text-7xl font-bold mb-4">
-						Selected Work
+						Portfolio
 					</h1>
 					<p className="max-w-xl mx-auto text-lg">
 						I've been developing websites for a while, but I also equally enjoy

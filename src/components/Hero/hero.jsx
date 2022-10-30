@@ -52,10 +52,10 @@ function Hero() {
 					</p>
 					<div className="flex items-baseline gap-4">
 						<HashLink
-							to="#work"
+							to="#portfolio"
 							className="px-6 py-4 rounded-md bg-teal-600 hover:bg-teal-700 text-white dark:text-gray-900"
 						>
-							Selected Work
+							Portfolio
 						</HashLink>
 						<Link
 							// to="/contact"
