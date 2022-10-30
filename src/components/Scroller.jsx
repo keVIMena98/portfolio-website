@@ -60,6 +60,14 @@ function Scroller() {
 					/>
 
 					<img
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"
+						width="100px"
+						height="100px"
+						alt="Python"
+						style={{ margin: '0px 40px' }}
+					/>
+
+					<img
 						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
 						width="100px"
 						height="100px"
@@ -128,6 +136,46 @@ function Scroller() {
 						width="100px"
 						height="100px"
 						alt="MongoDB"
+						style={{ margin: '0px 40px' }}
+					/>
+
+					<img
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+						width="100px"
+						height="100px"
+						alt="Python"
+						style={{ margin: '0px 40px' }}
+					/>
+
+					<img
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg"
+						width="100px"
+						height="100px"
+						alt="Python"
+						style={{ margin: '0px 40px' }}
+					/>
+
+					<img
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+						width="100px"
+						height="100px"
+						alt="Python"
+						style={{ margin: '0px 40px' }}
+					/>
+
+					<img
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"
+						width="100px"
+						height="100px"
+						alt="Python"
+						style={{ margin: '0px 40px' }}
+					/>
+
+					<img
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
+						width="100px"
+						height="100px"
+						alt="Python"
 						style={{ margin: '0px 40px' }}
 					/>
 				</Marquee>
