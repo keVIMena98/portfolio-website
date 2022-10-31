@@ -26,7 +26,28 @@ function Scroller() {
 						alt="CSS"
 						style={{ margin: '0px 40px' }}
 					/>
+					<img
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+						width="100px"
+						height="100px"
+						alt="Tailwind CSS"
+						style={{ margin: '0px 40px' }}
+					/>
 
+					<img
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+						width="100px"
+						height="100px"
+						alt="Sass"
+						style={{ margin: '0px 40px' }}
+					/>
+					<img
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+						width="100px"
+						height="100px"
+						alt="Bootstrap"
+						style={{ margin: '0px 40px' }}
+					/>
 					<img
 						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
 						width="100px"
@@ -42,7 +63,6 @@ function Scroller() {
 						alt="Typescript"
 						style={{ margin: '0px 40px' }}
 					/>
-
 					<img
 						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"
 						width="100px"
@@ -50,7 +70,126 @@ function Scroller() {
 						alt="Solidity"
 						style={{ margin: '0px 40px' }}
 					/>
+					<img
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+						width="100px"
+						height="100px"
+						alt="React"
+						style={{ margin: '0px 40px' }}
+					/>
 
+					<img
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+						width="100px"
+						height="100px"
+						alt="Vue"
+						style={{ margin: '0px 40px' }}
+					/>
+
+					<img
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+						width="100px"
+						height="100px"
+						alt="NodeJS"
+						style={{ margin: '0px 40px' }}
+					/>
+					<img
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+						width="100px"
+						height="100px"
+						alt="Express"
+						style={{ margin: '0px 40px' }}
+					/>
+					<img
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+						width="100px"
+						height="100px"
+						alt="PostreSQL"
+						style={{ margin: '0px 40px' }}
+					/>
+
+					<img
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"
+						width="100px"
+						height="100px"
+						alt="SQLite"
+						style={{ margin: '0px 40px' }}
+					/>
+					<img
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+						width="100px"
+						height="100px"
+						alt="MongoDB"
+						style={{ margin: '0px 40px' }}
+					/>
+					<img
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg"
+						width="100px"
+						height="100px"
+						alt="Heroku"
+						style={{ margin: '0px 40px' }}
+					/>
+					<img
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+						width="100px"
+						height="100px"
+						alt="Firebase"
+						style={{ margin: '0px 40px' }}
+					/>
+
+					<img
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
+						width="100px"
+						height="100px"
+						alt="Flutter"
+						style={{ margin: '0px 40px' }}
+					/>
+					<img
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"
+						width="100px"
+						height="100px"
+						alt="Bash"
+						style={{ margin: '0px 40px' }}
+					/>
+					<img
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+						width="100px"
+						height="100px"
+						alt="npm"
+						style={{ margin: '0px 40px' }}
+					/>
+
+					<img
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg"
+						width="100px"
+						height="100px"
+						alt="Yarn"
+						style={{ margin: '0px 40px' }}
+					/>
+
+					<img
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+						width="100px"
+						height="100px"
+						alt="Git"
+						style={{ margin: '0px 40px' }}
+					/>
+
+					<img
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+						width="100px"
+						height="100px"
+						alt="GitHub"
+						style={{ margin: '0px 40px' }}
+					/>
+
+					<img
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+						width="100px"
+						height="100px"
+						alt="Figma"
+						style={{ margin: '0px 40px' }}
+					/>
 					<img
 						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
 						width="100px"
@@ -63,119 +202,52 @@ function Scroller() {
 						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"
 						width="100px"
 						height="100px"
-						alt="Python"
+						alt="Jupyter"
 						style={{ margin: '0px 40px' }}
 					/>
 
 					<img
-						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"
 						width="100px"
 						height="100px"
-						alt="PostreSQL"
+						alt="Anaconda"
+						style={{ margin: '0px 40px' }}
+					/>
+					<img
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+						width="100px"
+						height="100px"
+						alt="Pandas"
+						style={{ margin: '0px 40px' }}
+					/>
+					<img
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg"
+						width="100px"
+						height="100px"
+						alt="Django"
+						style={{ margin: '0px 40px' }}
+					/>
+					<img
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"
+						width="100px"
+						height="100px"
+						alt="Chrome"
 						style={{ margin: '0px 40px' }}
 					/>
 
 					<img
-						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg"
 						width="100px"
 						height="100px"
-						alt="SQLite"
+						alt="Firefox"
 						style={{ margin: '0px 40px' }}
 					/>
 
 					<img
-						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
 						width="100px"
 						height="100px"
-						alt="Tailwind CSS"
-						style={{ margin: '0px 40px' }}
-					/>
-
-					<img
-						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
-						width="100px"
-						height="100px"
-						alt="React"
-						style={{ margin: '0px 40px' }}
-					/>
-
-					<img
-						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"
-						width="100px"
-						height="100px"
-						alt="Express"
-						style={{ margin: '0px 40px' }}
-					/>
-
-					<img
-						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"
-						width="100px"
-						height="100px"
-						alt="NodeJS"
-						style={{ margin: '0px 40px' }}
-					/>
-
-					<img
-						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"
-						width="100px"
-						height="100px"
-						alt="Git"
-						style={{ margin: '0px 40px' }}
-					/>
-
-					<img
-						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"
-						width="100px"
-						height="100px"
-						alt="GitHub"
-						style={{ margin: '0px 40px' }}
-					/>
-
-					<img
-						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
-						width="100px"
-						height="100px"
-						alt="MongoDB"
-						style={{ margin: '0px 40px' }}
-					/>
-
-					<img
-						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
-						width="100px"
-						height="100px"
-						alt="Python"
-						style={{ margin: '0px 40px' }}
-					/>
-
-					<img
-						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg"
-						width="100px"
-						height="100px"
-						alt="Python"
-						style={{ margin: '0px 40px' }}
-					/>
-
-					<img
-						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
-						width="100px"
-						height="100px"
-						alt="Python"
-						style={{ margin: '0px 40px' }}
-					/>
-
-					<img
-						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"
-						width="100px"
-						height="100px"
-						alt="Python"
-						style={{ margin: '0px 40px' }}
-					/>
-
-					<img
-						src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
-						width="100px"
-						height="100px"
-						alt="Python"
+						alt="Visual Studio Code"
 						style={{ margin: '0px 40px' }}
 					/>
 				</Marquee>
