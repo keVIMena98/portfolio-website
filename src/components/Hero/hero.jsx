@@ -41,7 +41,7 @@ function Hero() {
 						{' '}
 						Web Developer<span className="text-yellow-400">. </span>
 						<br />
-						Full-Stack Engineer
+						Full-Stack Software Engineer
 						<span className="text-violet-900">.</span>
 					</h1>
 					<p className="text-lg max-w-xl mb-6">
