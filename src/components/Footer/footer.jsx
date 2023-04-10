@@ -33,8 +33,8 @@ function Footer() {
 				Let's Talk
 			</Link>
 			<div className="col-span-2  md:row-start-1 md:col-start-2 md:col-end-3 border-t-2 border-black md:border-t-0 flex items-center justify-center text-center">
-				&copy; Copyright {new Date().getUTCFullYear()} Ackermann &#9679; Built
-				with ReactJS &#9679; Hosted on Vercel
+				&copy; Copyright {new Date().getUTCFullYear()} Kevin Ramirez &#9679;
+				Built with ReactJS &#9679; Hosted on Vercel
 			</div>
 		</footer>
 	);

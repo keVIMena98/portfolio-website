@@ -35,20 +35,20 @@ function Hero() {
 				</div>
 				<div className="md:flex-1 dark:text-gray-300">
 					<h2 className="text-lg md:text-xl font-bold uppercase">
-						Hi! I'm Ackermann.
+						Hi! I'm Kevin Ramirez.
 					</h2>
 					<h1 className="text-4xl lg:text-5xl xl:text-7xl font-bold mb-4">
 						{' '}
 						Web Developer<span className="text-yellow-400">. </span>
 						<br />
-						Full-Stack Software Engineer
+						Front-End Software Engineer
 						<span className="text-violet-900">.</span>
 					</h1>
 					<p className="text-lg max-w-xl mb-6">
-						I am a self-taught Web Developer and Full-Stack Engineer with a keen
-						interest in Web3 and Blockchain development. All coding projects are
-						built from the ground up, from planning and designing all the way to
-						solving real-life problems with code.
+						I am a self-taught Web Developer and Front-End Software Engineer
+						with a keen interest in Web3 and Blockchain development. All coding
+						projects are built from the ground up, from planning and designing
+						all the way to solving real-life problems with code.
 					</p>
 					<div className="flex items-baseline gap-4">
 						<HashLink
