@@ -41,14 +41,14 @@ function Hero() {
 						{' '}
 						Web Developer<span className="text-yellow-400">. </span>
 						<br />
-						Front-End Software Engineer
+						Software Engineer
 						<span className="text-violet-900">.</span>
 					</h1>
 					<p className="text-lg max-w-xl mb-6">
-						I am a self-taught Web Developer and Front-End Software Engineer
-						with a keen interest in Web3 and Blockchain development. All coding
-						projects are built from the ground up, from planning and designing
-						all the way to solving real-life problems with code.
+						I am a self-taught Software Engineer with a keen interest in
+						Full-Stack Web Development. All coding projects are built from the
+						ground up, from planning and designing all the way to solving
+						real-life problems with code.
 					</p>
 					<div className="flex items-baseline gap-4">
 						<HashLink
